@@ -1,0 +1,15 @@
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\bin\Release\SafeBoxWPF.exe.config
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\bin\Release\SafeBoxWPF.exe
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\bin\Release\SafeBoxWPF.pdb
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\SafeBoxWPF.csproj.SuggestedBindingRedirects.cache
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\MainWindow.g.cs
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\App.g.cs
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\SafeBoxWPF_MarkupCompile.cache
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\SafeBoxWPF_MarkupCompile.lref
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\MainWindow.baml
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\SafeBoxWPF.g.resources
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\SafeBoxWPF.Properties.Resources.resources
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\SafeBoxWPF.csproj.GenerateResource.cache
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\SafeBoxWPF.csproj.CoreCompileInputs.cache
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\SafeBoxWPF.exe
+C:\Users\hatru\Desktop\Programming\Программирование\WPF\SafeBoxWPF\SafeBoxWPF\obj\Release\SafeBoxWPF.pdb
